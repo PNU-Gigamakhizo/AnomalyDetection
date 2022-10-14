@@ -26,8 +26,8 @@
               
 패키지 다운로드 방법 : pip install -r requirements.txt  
 패키지 정보 :  flask  
-              numpy==1.15.0  
-              pillow  
+&nbsp;&nbsp;&nbsp;numpy==1.15.0  
+&nbsp;&nbsp;&nbsp;pillow  
               tensorflow==1.12.0  
               scikit-learn>=0.22  
               scipy>=1.3.2  
