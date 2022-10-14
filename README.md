@@ -15,7 +15,44 @@
 ![image](https://user-images.githubusercontent.com/64565005/195790050-dd5c74b0-b741-4838-8c73-0fd530c173ab.png)
 ![image](https://user-images.githubusercontent.com/64565005/195790058-df6db475-9a18-4335-920c-e58955dcab52.png)
 
-
-
 ### 4.소개 및 시연 영상
+
 ### 5.사용법
+
+파일 다운로드 : git clone
+
+통합 개발 환경(IDE) : VSCode
+개발 언어 및 버전 : python3.8
+              
+패키지 다운로드 방법 : pip install -r requirements.txt
+패키지 정보 : 
+              flask
+              numpy==1.15.0
+              pillow
+              tensorflow==1.12.0
+              scikit-learn>=0.22
+              scipy>=1.3.2
+              numpy>=1.17.4
+              torch>=1.00
+              torchvision>=0.2.2
+              matplotlib>=3.0.3
+              tqdm>=4.40.2
+              matplotlib>=3.2.2
+              numpy>=1.18.5
+              opencv-python>=4.1.1
+              Pillow>=7.1.2
+              PyYAML>=5.3.1
+              requests>=2.23.0
+              scipy>=1.4.1
+              thop>=0.1.1
+              psutil
+              ipython
+              pandas>=1.1.4
+              seaborn>=0.11.0
+              torch>=1.7.0
+              torchvision>=0.8.1
+              tqdm>=4.64.0
+              tensorboard>=2.4.1
+
+수행 명령어 : python app.py
+              python -m http.server
