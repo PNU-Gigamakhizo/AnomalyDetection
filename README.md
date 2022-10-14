@@ -7,6 +7,7 @@
 ### 2.팀 소개
 201724526 이동훈 zzugak@naver.com  
 201724598 최강현 go0253@nate.com
+
 201952108 김승연 love00826@naver.com
 ![image](https://user-images.githubusercontent.com/64565005/195789448-67f034d6-deb4-4282-8008-cd4331e5d488.png)
 
