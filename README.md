@@ -6,10 +6,16 @@
 
 ### 2.팀 소개
 201724526 이동훈 zzugak@naver.com  
-2017
+201724598 최강현 go0253@nate.com
 201952108 김승연 love00826@naver.com
 ![image](https://user-images.githubusercontent.com/64565005/195789448-67f034d6-deb4-4282-8008-cd4331e5d488.png)
 
 ### 3.구성도
+![image](https://user-images.githubusercontent.com/64565005/195790034-36b07da2-36a3-4b45-932f-45cbe59c281f.png)
+![image](https://user-images.githubusercontent.com/64565005/195790050-dd5c74b0-b741-4838-8c73-0fd530c173ab.png)
+![image](https://user-images.githubusercontent.com/64565005/195790058-df6db475-9a18-4335-920c-e58955dcab52.png)
+
+
+
 ### 4.소개 및 시연 영상
 ### 5.사용법
