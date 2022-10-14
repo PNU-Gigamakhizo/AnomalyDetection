@@ -21,38 +21,37 @@
 
 파일 다운로드 : git clone https://github.com/PNU-Gigamakhizo/AnomalyDetection.git
 
-통합 개발 환경(IDE) : VSCode
-개발 언어 및 버전 : python3.8
+통합 개발 환경(IDE) : VSCode  
+개발 언어 및 버전 : python3.8  
               
-패키지 다운로드 방법 : pip install -r requirements.txt
-패키지 정보 : 
-              flask
-              numpy==1.15.0
-              pillow
-              tensorflow==1.12.0
-              scikit-learn>=0.22
-              scipy>=1.3.2
-              numpy>=1.17.4
-              torch>=1.00
-              torchvision>=0.2.2
-              matplotlib>=3.0.3
-              tqdm>=4.40.2
-              matplotlib>=3.2.2
-              numpy>=1.18.5
-              opencv-python>=4.1.1
-              Pillow>=7.1.2
-              PyYAML>=5.3.1
-              requests>=2.23.0
-              scipy>=1.4.1
-              thop>=0.1.1
-              psutil
-              ipython
-              pandas>=1.1.4
-              seaborn>=0.11.0
-              torch>=1.7.0
-              torchvision>=0.8.1
-              tqdm>=4.64.0
-              tensorboard>=2.4.1
-
-수행 명령어 : python app.py
-              python -m http.server
+패키지 다운로드 방법 : pip install -r requirements.txt  
+패키지 정보 :  flask  
+              numpy==1.15.0  
+              pillow  
+              tensorflow==1.12.0  
+              scikit-learn>=0.22  
+              scipy>=1.3.2  
+              numpy>=1.17.4  
+              torch>=1.00  
+              torchvision>=0.2.2  
+              matplotlib>=3.0.3  
+              tqdm>=4.40.2  
+              matplotlib>=3.2.2  
+              numpy>=1.18.5  
+              opencv-python>=4.1.1  
+              Pillow>=7.1.2  
+              PyYAML>=5.3.1  
+              requests>=2.23.0  
+              scipy>=1.4.1  
+              thop>=0.1.1  
+              psutil  
+              ipython  
+              pandas>=1.1.4  
+              seaborn>=0.11.0  
+              torch>=1.7.0  
+              torchvision>=0.8.1  
+              tqdm>=4.64.0  
+              tensorboard>=2.4.1  
+  
+수행 명령어 : python app.py  
+              python -m http.server  
